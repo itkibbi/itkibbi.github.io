@@ -36,13 +36,30 @@
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = '504370938';
+    var serviceWorkerVersion = '2085060654';
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
 </head>
 
 <body>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-storage.js"></script>
+  <script>
+    var firebaseConfig = {
+      apiKey: "AIzaSyCFNrsD9IAGZhn-GWlN_lS5et7zZNyYkU8",
+      authDomain: "mykibbi.firebaseapp.com",
+      projectId: "mykibbi",
+      storageBucket: "mykibbi.appspot.com",
+      messagingSenderId: "862522065575",
+      appId: "1:862522065575:web:d36c90030c91add9cf5182",
+      measurementId: "G-MDMTMG7QMM"
+    };
+
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+  </script>
   <script>
     window.addEventListener('load', function (ev) {
       // Download main.dart.js
@@ -57,12 +74,6 @@
         }
       });
     });
-  </script>
-  <script src="https://www.gstatic.com/firebasejs/7.17.1/firebase-firestore.js"></script>
-  <script src="https://www.gstatic.com/firebasejs/7.14.4/firebase-storage.js"></script>
-  <script type="module">
-    import { initializeApp } from "https://www.gstatic.com/firebasejs/9.19.1/firebase-app.js";
-    import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.19.1/firebase-analytics.js";
   </script>
 </body>
 
