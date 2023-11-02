@@ -1,6 +1,6 @@
 {
-    "name": "cms",
-    "short_name": "cms",
+    "name": "Kibbi CMS",
+    "short_name": "Kibbi CMS",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
