@@ -60499,7 +60499,7 @@ if(g.length===0){h=p.c
 h.toString
 q=A.G("Error","Please enter key name",h,!0)
 s=1
-break}g=A.cf(g," ","_")
+break}g=A.cf(g.toLowerCase()," ","_")
 o=A.c5("[^\\w\\s]+",!0,!1)
 h.sam(0,A.cf(g,o,""))
 g=B.c.a3(h.a.a)
@@ -67238,7 +67238,7 @@ if(g.length===0){h=p.c
 h.toString
 q=A.G("Error","Please enter key name",h,!0)
 s=1
-break}g=A.cf(g," ","_")
+break}g=A.cf(g.toLowerCase()," ","_")
 o=A.c5("[^\\w\\s]+",!0,!1)
 h.sam(0,A.cf(g,o,""))
 g=B.c.a3(h.a.a)
@@ -72514,7 +72514,7 @@ if(g.length===0){h=p.c
 h.toString
 q=A.G("Error","Please enter key name",h,!0)
 s=1
-break}g=A.cf(g," ","_")
+break}g=A.cf(g.toLowerCase()," ","_")
 o=A.c5("[^\\w\\s]+",!0,!1)
 h.sam(0,A.cf(g,o,""))
 g=B.c.a3(h.a.a)
@@ -72812,7 +72812,7 @@ o=p.y
 n=B.c.a3(o.a.a)
 if(n.length===0){q=j.$1("Please enter Key Name")
 s=1
-break}n=A.cf(n," ","_")
+break}n=A.cf(n.toLowerCase()," ","_")
 m=A.c5("[^\\w\\s]+",!0,!1)
 o.sam(0,A.cf(n,m,""))
 n=p.z
@@ -73015,7 +73015,7 @@ q=A.G("Error","Key name must not empty",o,!0)
 s=1
 break}o=p.gl0()
 n=B.c.a3(p.gl0().a.a)
-n=A.cf(n," ","_")
+n=A.cf(n.toLowerCase()," ","_")
 m=A.c5("[^\\w\\s]+",!0,!1)
 o.sam(0,A.cf(n,m,""))
 o=p.ghC(p)
