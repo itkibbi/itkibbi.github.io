@@ -60528,7 +60528,7 @@ break}o=B.c.a0(A.x6(a))
 if(B.c.p(o," ")){q=c.$1(u.r)
 s=1
 break}n=p.d
-if(new A.t(n,new A.aMm(),A.a6(n).j("t<1,f>")).p(0,o.toLowerCase())){q=c.$1("Please enter key name")
+if(new A.t(n,new A.aMm(),A.a6(n).j("t<1,f>")).p(0,o.toLowerCase())){q=c.$1("Key already exist")
 s=1
 break}m=B.c.a0(b)
 if(m.length===0){q=c.$1("Please enter value in English")
@@ -67252,7 +67252,7 @@ break}o=B.c.a0(A.x6(a))
 if(B.c.p(o," ")){q=c.$1(u.r)
 s=1
 break}n=p.d
-if(new A.t(n,new A.aRY(),A.a6(n).j("t<1,f>")).p(0,o.toLowerCase())){q=c.$1("Please enter key name")
+if(new A.t(n,new A.aRY(),A.a6(n).j("t<1,f>")).p(0,o.toLowerCase())){q=c.$1("Key already exist")
 s=1
 break}m=B.c.a0(b)
 if(m.length===0){q=c.$1("Please enter value in English")
@@ -72591,7 +72591,7 @@ o=B.c.a0(a)
 if(B.c.p(o," ")){q=c.$1(u.r)
 s=1
 break}n=p.d
-if(new A.t(n,new A.aYE(),A.a6(n).j("t<1,f>")).p(0,o.toLowerCase())){q=c.$1("Please enter key name")
+if(new A.t(n,new A.aYE(),A.a6(n).j("t<1,f>")).p(0,o.toLowerCase())){q=c.$1("Key already exist")
 s=1
 break}o=B.c.a0(b)
 if(o.length===0){q=c.$1("Please enter value in English")
