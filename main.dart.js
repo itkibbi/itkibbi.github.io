@@ -38159,7 +38159,7 @@ m.aM()
 m.sba(l)
 s.cx$!==$&&A.ae()
 s.cx$=m
-n=m}s.aaT(new A.a03(p,new A.GO(B.zp,"Kibbi CMS v.1.0.19",j,!1,k,l),o,n,l))
+n=m}s.aaT(new A.a03(p,new A.GO(B.zp,"Kibbi CMS v.1.0.20",j,!1,k,l),o,n,l))
 s.JY()},
 bDW(a,b,c,d){var s,r,q,p,o,n=A.B(d,c.j("O<0>"))
 for(s=c.j("C<0>"),r=0;r<1;++r){q=a[r]
@@ -58814,7 +58814,7 @@ $S:2}
 A.b9N.prototype={
 $1(a){var s=null,r=A.a9(20),q=this.a
 q=A.u(q==null?"Caution!":q,s,s,25,B.T,s,s,B.c_,s)
-return A.dj(s,s,A.ar(A.H(A.a([new A.ag(B.bx,q,s),new A.ag(B.a7,A.u(this.b,s,s,18,s,s,s,B.c_,s),s),new A.ag(B.a7,A.ar(A.hM(B.a2J,new A.b9M(a,this.d),A.rG(s,s,B.a_,s,s,s,s,s,s,s,s,s,s,s,new A.cM(A.a9(10),B.A),s,s,s,s)),40,1/0),s)],t.p),B.i,B.d,B.y),s,400),B.f,s,B.au,s,new A.cM(r,B.A),B.j)},
+return A.dj(s,s,A.ar(A.H(A.a([new A.ag(B.bx,q,s),new A.ag(B.a7,A.u(this.b,s,s,18,s,s,s,B.c_,s),s),new A.ag(B.a7,A.ar(A.hM(B.a2I,new A.b9M(a,this.d),A.rG(s,s,B.a_,s,s,s,s,s,s,s,s,s,s,s,new A.cM(A.a9(10),B.A),s,s,s,s)),40,1/0),s)],t.p),B.i,B.d,B.y),s,400),B.f,s,B.au,s,new A.cM(r,B.A),B.j)},
 $S:13}
 A.b9M.prototype={
 $0(){A.bH(this.a,!1).bX(null)},
@@ -61691,7 +61691,7 @@ return A.j(A.i3(new A.am1(),k,m,t.dO),$async$qv)
 case 3:j=a9
 m=j.a
 if(m==null){n.$1(!1)
-A.D("Translations Error",j.gY(0),p.a,!1)
+A.D("Translations Error",j.gY(0),p.a,!0)
 s=1
 break}n=A.bW(p.gdt(0),new A.am2())
 n=n==null?null:n.a
@@ -61734,7 +61734,7 @@ s=4
 return A.j(A.ami(f),$async$qv)
 case 4:a4=a9
 if(a4.a==null){p.e.$1(!1)
-A.D("Update language Error",a4.gY(0),p.a,!1)
+A.D("Update language Error",a4.gY(0),p.a,!0)
 s=1
 break}a6.$1("Updating article detail...")
 a6=n.a
@@ -61990,7 +61990,7 @@ k.toString
 A.D("Error",l,k,!0)}case 1:return A.m(q,r)}})
 return A.n($async$oB,r)},
 D(a){var s=this,r=null,q=t.p
-return new A.zH(A.dd(A.fr(A.a([new A.ag(B.a0,A.bD(B.bq,B.oo,new A.aNj(s,a),B.ce,100),r)],q),r,!0,r,r,r,r,r,r,r,B.a2u),r,A.H(A.a([B.aH,A.W(A.P(A.a([A.ar(A.H(A.a([A.E(r,A.P(A.a([A.W(A.e2(r,s.x,r,r,"Search category",B.jB,r,!1,new A.aNk(s),new A.aNl(s),B.aM,B.ay,r,r),1),B.ao,A.bd(r,r,B.mD,r,s.gne(),B.K,r,r,r)],q),B.i,B.d,B.e,r),B.f,r,r,r,r,r,r,B.ce,r,r,r),A.W(new A.x(new A.aNm(s),r),1)],q),B.i,B.d,B.e),r,400),B.iQ,A.W(new A.x(new A.aNn(s,a),r),1)],q),B.i,B.d,B.e,r),1)],q),B.i,B.d,B.e),r,r,r),new A.aNo(s,a),!1,r)}}
+return new A.zH(A.dd(A.fr(A.a([new A.ag(B.a0,A.bD(B.bq,B.oo,new A.aNj(s,a),B.ce,100),r)],q),r,!0,r,r,r,r,r,r,r,B.a2t),r,A.H(A.a([B.aH,A.W(A.P(A.a([A.ar(A.H(A.a([A.E(r,A.P(A.a([A.W(A.e2(r,s.x,r,r,"Search category",B.jB,r,!1,new A.aNk(s),new A.aNl(s),B.aM,B.ay,r,r),1),B.ao,A.bd(r,r,B.mD,r,s.gne(),B.K,r,r,r)],q),B.i,B.d,B.e,r),B.f,r,r,r,r,r,r,B.ce,r,r,r),A.W(new A.x(new A.aNm(s),r),1)],q),B.i,B.d,B.e),r,400),B.iQ,A.W(new A.x(new A.aNn(s,a),r),1)],q),B.i,B.d,B.e,r),1)],q),B.i,B.d,B.e),r,r,r),new A.aNo(s,a),!1,r)}}
 A.aNs.prototype={
 $1(a){return a!==B.cf},
 $S:35}
@@ -62142,7 +62142,7 @@ j=k.d=new A.TS(s,q,r,p,o,n,new A.ay(B.u,m),new A.ay(B.u,m),new A.ay(B.u,m),new A
 ad(){this.aj()
 this.gq(0).eN()},
 D(a){var s=null
-return A.dd(A.fr(A.a([A.E(s,new A.x(new A.aj0(this),s),B.f,s,s,new A.ao(s,s,A.b9(B.O),A.a9(8),s,s,B.q),s,30,B.a0,s,s,s,s),A.fz(A.bD(B.bc,B.EV,this.gq(0).gaN5(),B.F,100),"Save"),B.ao],t.p),s,!0,s,s,s,s,s,s,s,B.a2D),B.j,new A.x(new A.aj1(this),s),s,s,s)},
+return A.dd(A.fr(A.a([A.E(s,new A.x(new A.aj0(this),s),B.f,s,s,new A.ao(s,s,A.b9(B.O),A.a9(8),s,s,B.q),s,30,B.a0,s,s,s,s),A.fz(A.bD(B.bc,B.EV,this.gq(0).gaN5(),B.F,100),"Save"),B.ao],t.p),s,!0,s,s,s,s,s,s,s,B.a2C),B.j,new A.x(new A.aj1(this),s),s,s,s)},
 Jy(){var s=this,r=null,q=A.E(r,B.a06,B.f,B.cz,r,r,r,40,B.eH,B.eG,r,r,1/0),p=s.T0(s.gq(0).gmd(),"A unique name for this article. End user will not see this name","Reference Name",!0),o=A.d6(),n=A.a0(o).j("r<1,x>"),m=t.p
 return A.ar(A.H(A.a([q,B.aH,A.W(A.cq(A.a([A.H(A.a([p,B.r,new A.x(new A.ajP(s),r),B.r,new A.x(new A.ajQ(s),r),B.r,new A.x(new A.ajR(s),r),B.r,B.e_,new A.x(new A.ajS(s),r),B.r,new A.x(new A.ajT(s),r),B.r,new A.x(new A.ajU(s),r),B.r,B.e0,A.H(A.G(new A.r(o,new A.ajV(s),n),!0,n.j("J.E")),B.i,B.d,B.e),B.r,A.P(A.a([B.dZ,B.af,A.bD(B.bX,B.dC,new A.ajW(s),B.F,100)],m),B.i,B.d,B.e,r),new A.ag(B.dr,new A.x(new A.ajX(s),r),r)],m),B.o,B.d,B.e)],m),r,B.Y,r,B.z,!1),1)],m),B.i,B.d,B.e),r,400)},
 oy(a,b,c,d,e){var s,r=null,q=t.p,p=A.a([],q),o=A.a([A.u(c,r,r,r,B.n,r,r,r,r)],q)
@@ -63030,7 +63030,7 @@ return A.P(A.a([r,A.E(B.aX,A.eF(new A.cW(q==null?0:q,7,s,B.ak,s),B.aJ),B.f,s,s,s
 $S:80}
 A.aj8.prototype={
 $1(a){var s=this,r=null,q=s.b,p=s.c,o=s.d
-return A.dj(r,r,new A.ag(B.hH,A.E(r,A.H(A.a([B.a1B,B.bh,B.a2R,B.bh,new A.x(new A.aj6(q),r),B.oq,A.ar(A.e2(r,p,r,B.e1,"A unique name referring to this article. Don't use the article title.",r,r,!1,r,r,B.aM,B.ay,r,r),40,r),B.r,B.a2E,A.ar(A.e2(r,o,r,B.e1,"https://www.somelink.com/article-url",r,r,!1,r,r,B.aM,B.ay,r,r),40,r),B.hz,new A.x(new A.aj7(s.a,s.e,a,q,p,o),r)],t.p),B.o,B.d,B.y),B.f,r,B.j2,r,r,r,r,r,r,r,r),r),B.f,r,B.au,r,r,B.j)},
+return A.dj(r,r,new A.ag(B.hH,A.E(r,A.H(A.a([B.a1B,B.bh,B.a2R,B.bh,new A.x(new A.aj6(q),r),B.oq,A.ar(A.e2(r,p,r,B.e1,"A unique name referring to this article. Don't use the article title.",r,r,!1,r,r,B.aM,B.ay,r,r),40,r),B.r,B.a2D,A.ar(A.e2(r,o,r,B.e1,"https://www.somelink.com/article-url",r,r,!1,r,r,B.aM,B.ay,r,r),40,r),B.hz,new A.x(new A.aj7(s.a,s.e,a,q,p,o),r)],t.p),B.o,B.d,B.y),B.f,r,B.j2,r,r,r,r,r,r,r,r),r),B.f,r,B.au,r,r,B.j)},
 $S:13}
 A.aj6.prototype={
 $0(){var s=null,r=this.a,q=J.af(r.gh(0))
@@ -67044,7 +67044,7 @@ A.aWZ.prototype={
 $0(){var s,r=null,q=this.a,p=q.d
 if(p.cy.gh(0).a==null)q=A.E(r,r,B.f,r,r,r,r,r,r,r,r,r,r)
 else{s=t.p
-s=A.H(A.a([A.E(r,A.P(A.a([A.W(new A.x(new A.aWV(q),r),1),A.P(A.a([A.fz(A.bD(B.d7,B.a2N,new A.aWW(q),B.F,100),"Delete"),B.ab,A.fz(A.bD(B.bc,B.a1L,p.gTq(),B.F,100),"Update")],s),B.i,B.d,B.e,r)],s),B.i,B.d,B.e,r),B.f,B.cz,r,r,r,40,B.eH,B.eG,r,r,1/0),B.jj,A.W(A.cq(A.a([q.aJh(0),B.r,new A.ag(B.ax,A.E(B.aX,A.bD(B.cx,B.a2z,p.gtP(),B.NH,100),B.f,r,r,r,r,r,r,r,r,r,r),r),B.r,A.P(A.a([A.W(new A.x(new A.aWX(q),r),1),A.W(new A.x(new A.aWY(q),r),1)],s),B.b4,B.d,B.e,r),B.r,q.dY(p.w,"Header",!1),B.r,q.dY(p.f,"Destination URL",!1),B.r,q.hN(p.e,"Banner Content (only for video)",!1,5),B.r],s),r,B.Y,r,B.z,!1),1)],s),B.i,B.d,B.e)
+s=A.H(A.a([A.E(r,A.P(A.a([A.W(new A.x(new A.aWV(q),r),1),A.P(A.a([A.fz(A.bD(B.d7,B.a2M,new A.aWW(q),B.F,100),"Delete"),B.ab,A.fz(A.bD(B.bc,B.a1L,p.gTq(),B.F,100),"Update")],s),B.i,B.d,B.e,r)],s),B.i,B.d,B.e,r),B.f,B.cz,r,r,r,40,B.eH,B.eG,r,r,1/0),B.jj,A.W(A.cq(A.a([q.aJh(0),B.r,new A.ag(B.ax,A.E(B.aX,A.bD(B.cx,B.a2y,p.gtP(),B.NH,100),B.f,r,r,r,r,r,r,r,r,r,r),r),B.r,A.P(A.a([A.W(new A.x(new A.aWX(q),r),1),A.W(new A.x(new A.aWY(q),r),1)],s),B.b4,B.d,B.e,r),B.r,q.dY(p.w,"Header",!1),B.r,q.dY(p.f,"Destination URL",!1),B.r,q.hN(p.e,"Banner Content (only for video)",!1,5),B.r],s),r,B.Y,r,B.z,!1),1)],s),B.i,B.d,B.e)
 q=s}return q},
 $S:3}
 A.aWV.prototype={
@@ -67068,7 +67068,7 @@ $1(a){return this.a.d.dy.$1(a)},
 $S:256}
 A.aWY.prototype={
 $0(){var s=this.a
-return A.xF(new A.aWS(s),B.a2G,s.d.dx.gh(0))},
+return A.xF(new A.aWS(s),B.a2F,s.d.dx.gh(0))},
 $S:101}
 A.aWS.prototype={
 $1(a){var s=this.a.d.dx
@@ -67860,7 +67860,7 @@ default:return A.E(s,s,B.f,s,s,s,s,s,s,s,s,s,s)}},
 $S:55}
 A.aYs.prototype={
 $2(a,b){var s=null,r=this.a,q=J.L(r.d.e.gh(0),b),p=q.b
-return A.ft(!1,s,s,s,!0,s,s,!1,s,s,s,new A.aYr(r,this.b,q),!1,s,s,s,B.a2A,s,A.u(p==null?"":p,s,s,s,s,s,s,s,s),s,s)},
+return A.ft(!1,s,s,s,!0,s,s,!1,s,s,s,new A.aYr(r,this.b,q),!1,s,s,s,B.a2z,s,A.u(p==null?"":p,s,s,s,s,s,s,s,s),s,s)},
 $S:188}
 A.aYr.prototype={
 $0(){this.a.d.Ud(0,this.b,this.c.a)},
@@ -68231,7 +68231,7 @@ return A.j(A.i3(new A.auX(),l,k,t.Qr),$async$qw)
 case 3:j=b5
 k=j.a
 if(k==null){o.$1(!1)
-A.D("Translations Error",j.gY(0),p.a,!1)
+A.D("Translations Error",j.gY(0),p.a,!0)
 s=1
 break}o=A.bW(p.gdt(0),new A.auY())
 o=o==null?null:o.a
@@ -68271,7 +68271,7 @@ s=4
 return A.j(A.alh(f),$async$qw)
 case 4:a=b5
 if(a.a==null){p.f.$1(!1)
-A.D("Update language Error",a.gY(0),p.a,!1)
+A.D("Update language Error",a.gY(0),p.a,!0)
 s=1
 break}b2.$1("Updating event detail...")
 b2=p.c
@@ -69104,7 +69104,7 @@ if(n==null){o.$1(!1)
 a=k.gY(0)
 o=p.c
 o.toString
-A.D("Translations Error",a,o,!1)
+A.D("Translations Error",a,o,!0)
 s=1
 break}o=A.bW(p.gdt(0),new A.alC())
 o=o==null?null:o.a
@@ -69130,7 +69130,7 @@ if(d.a==null){p.Q.$1(!1)
 a=d.gY(0)
 o=p.c
 o.toString
-A.D("Update language Error",a,o,!1)
+A.D("Update language Error",a,o,!0)
 s=1
 break}a.$1("Updating article detail...")
 a=p.a.d.a
@@ -69195,7 +69195,7 @@ $1(a){return a.c==this.a.a},
 $S:107}
 A.alv.prototype={
 $0(){var s=null,r=this.a,q=r.Q.gh(0),p=t.p,o=A.di(A.P(A.a([B.jg,B.cF,new A.x(new A.alq(r),s)],p),B.i,B.d,B.y,s),s,s),n=this.b
-return A.oK(A.H(A.a([new A.ag(B.a0,A.H(A.a([B.bh,A.P(A.a([B.a2w,A.bD(B.bq,B.EM,r.gaNh(),B.F,100)],p),B.i,B.c4,B.e,s),new A.x(new A.alr(r),s),B.a2n],p),B.o,B.d,B.e),s),A.W(A.cq(A.a([A.P(A.a([A.W(A.H(A.a([B.F4,new A.x(new A.als(r,n),s)],p),B.o,B.d,B.e),1),B.af,B.jn],p),B.o,B.d,B.e,s),B.cr,A.P(A.a([A.W(A.H(A.a([B.a1n,new A.x(new A.alt(r,n),s)],p),B.o,B.d,B.e),1),B.af,A.W(A.H(A.a([B.a2q,new A.x(new A.alu(r,n),s)],p),B.o,B.d,B.e),1)],p),B.o,B.d,B.e,s),B.cr,B.EO,A.ar(A.e2(s,r.y,s,B.e1,s,s,s,!1,s,s,B.aM,B.ay,s,s),40,s),B.cr,B.a25,A.e2(s,r.z,s,B.e1,s,s,4,!1,s,s,B.aM,B.oR,s,s),B.cr],p),s,B.a7,s,B.z,!1),1)],p),B.i,B.d,B.e),o,q)},
+return A.oK(A.H(A.a([new A.ag(B.a0,A.H(A.a([B.bh,A.P(A.a([B.a2v,A.bD(B.bq,B.EM,r.gaNh(),B.F,100)],p),B.i,B.c4,B.e,s),new A.x(new A.alr(r),s),B.a2n],p),B.o,B.d,B.e),s),A.W(A.cq(A.a([A.P(A.a([A.W(A.H(A.a([B.F4,new A.x(new A.als(r,n),s)],p),B.o,B.d,B.e),1),B.af,B.jn],p),B.o,B.d,B.e,s),B.cr,A.P(A.a([A.W(A.H(A.a([B.a1n,new A.x(new A.alt(r,n),s)],p),B.o,B.d,B.e),1),B.af,A.W(A.H(A.a([B.a2q,new A.x(new A.alu(r,n),s)],p),B.o,B.d,B.e),1)],p),B.o,B.d,B.e,s),B.cr,B.EO,A.ar(A.e2(s,r.y,s,B.e1,s,s,s,!1,s,s,B.aM,B.ay,s,s),40,s),B.cr,B.a25,A.e2(s,r.z,s,B.e1,s,s,4,!1,s,s,B.aM,B.oR,s,s),B.cr],p),s,B.a7,s,B.z,!1),1)],p),B.i,B.d,B.e),o,q)},
 $S:69}
 A.alq.prototype={
 $0(){var s=null
@@ -69478,7 +69478,7 @@ s.gq(0).aFn(a.b)}},
 $S:857}
 A.awG.prototype={
 $0(){var s=this.a
-return A.a_6(B.K,new A.awz(s),B.a2H,s.gq(0).gtx().gh(0))},
+return A.a_6(B.K,new A.awz(s),B.a2G,s.gq(0).gtx().gh(0))},
 $S:130}
 A.awz.prototype={
 $1(a){var s=this.a
@@ -69487,7 +69487,7 @@ $S:12}
 A.awH.prototype={
 $0(){var s,r,q,p=this.a,o=t.p
 if(!p.gq(0).gtx().gh(0))p=A.P(A.a([A.W(p.jY("Start Time",!1,new A.aww(p),A.oQ(p.gq(0).glt(0).gh(0))),1),B.ab,A.W(p.jY("End Time",!1,new A.awx(p),A.oQ(p.gq(0).go0(0).gh(0))),1)],o),B.i,B.d,B.e,null)
-else{s=A.P(A.a([B.a1q,B.ao,A.bD(B.bq,B.a2t,p.gaEe(),B.F,100)],o),B.i,B.d,B.e,null)
+else{s=A.P(A.a([B.a1q,B.ao,A.bD(B.bq,B.a2s,p.gaEe(),B.F,100)],o),B.i,B.d,B.e,null)
 r=p.gq(0).gqO()
 q=r.$ti.j("r<a8.E,i1>")
 o=A.H(A.a([s,A.H(A.G(new A.r(r,new A.awy(p),q),!0,q.j("J.E")),B.i,B.d,B.e)],o),B.o,B.d,B.e)
@@ -71359,7 +71359,7 @@ q=A.u(q==null?"":q,o,o,16,B.n,o,o,o,o)
 p=m.gh(0).e
 n=A.co(o,A.u(p==null?"":p,B.ad,o,o,o,o,o,o,o),B.v,!1,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,new A.axE(n),o,o,o,o,o,o)
 p=m.gh(0).f
-n=A.a([s,B.r,r,B.al,B.a1V,q,B.c9,B.a2C,n,B.c9,B.a2L,A.u(p==null?"":p,o,o,o,o,o,o,o,o),B.c9,B.EW],t.p)
+n=A.a([s,B.r,r,B.al,B.a1V,q,B.c9,B.a2B,n,B.c9,B.a2K,A.u(p==null?"":p,o,o,o,o,o,o,o,o),B.c9,B.EW],t.p)
 s=m.gh(0).Q
 s=s==null?o:J.hR(s)
 if(s===!0){s=m.gh(0).Q
@@ -72013,7 +72013,7 @@ return A.j(A.i3(new A.ayw(),j,e,t.Er),$async$qy)
 case 3:b=c0
 o=b.a
 if(o==null){n.$1(!1)
-A.D("Translations Error",b.gY(0),p.a,!1)
+A.D("Translations Error",b.gY(0),p.a,!0)
 s=1
 break}n=A.bW(p.gdt(0),new A.ayx())
 n=n==null?null:n.a
@@ -72090,7 +72090,7 @@ s=4
 return A.j(A.ayM(a6),$async$qy)
 case 4:b5=c0
 if(b5.a==null){p.d.$1(!1)
-A.D("Update language Error",b5.gY(0),p.a,!1)
+A.D("Update language Error",b5.gY(0),p.a,!0)
 s=1
 break}o.$1("Updating perk detail...")
 o=i.gh(0).a
@@ -73290,7 +73290,7 @@ n.toString
 A.D("Error",m,n,!0)}case 1:return A.m(q,r)}})
 return A.n($async$IA,r)},
 D(a){var s=this,r=null,q=A.a9(8),p=A.a9(8),o=s.x.gh(0),n=t.fo,m=t.p
-q=A.fr(A.a([B.af,A.fz(A.E(r,new A.fs(A.jm(p,!1,A.G(new A.r(A.a(["","create","processing","pending","close"],t.s),new A.b1r(),n),!0,n.j("J.E")),new A.b1s(s),B.cO,o,t.N),r),B.f,r,r,new A.ao(B.bc,r,r,q,r,r,B.q),r,r,r,r,r,r,r),"Status Filter"),B.ao,A.bd(r,r,B.jA,r,s.gou(s),r,r,r,r),B.af],m),r,!0,r,r,r,r,r,r,r,B.a2F)
+q=A.fr(A.a([B.af,A.fz(A.E(r,new A.fs(A.jm(p,!1,A.G(new A.r(A.a(["","create","processing","pending","close"],t.s),new A.b1r(),n),!0,n.j("J.E")),new A.b1s(s),B.cO,o,t.N),r),B.f,r,r,new A.ao(B.bc,r,r,q,r,r,B.q),r,r,r,r,r,r,r),"Status Filter"),B.ao,A.bd(r,r,B.jA,r,s.gou(s),r,r,r,r),B.af],m),r,!0,r,r,r,r,r,r,r,B.a2E)
 o=A.bhW(new A.x(new A.b1t(s),r),B.j,400)
 return A.dd(q,r,A.H(A.a([B.aH,new A.x(new A.b1u(s),r),A.W(new A.x(new A.b1v(s),r),1),B.bJ,new A.x(new A.b1w(s),r)],m),B.i,B.d,B.e),r,o,s.d)},
 aEE(a,b){var s=null,r=A.a9(8),q=A.a9(8),p=b.f,o=t.fo,n=t.p
@@ -73300,7 +73300,7 @@ q=A.aGR(p==null?"Unassigned":p,s,s,s)
 p=b.e
 p=A.bI(!1,s,!0,A.u(p==null?"":p,s,s,s,s,s,s,s,s),s,!0,s,s,s,s,s,s,s,s,s,s,s,new A.b1B(b),s,s,s,s,s)
 o=b.d
-return A.H(A.a([r,B.aH,A.W(A.cq(A.a([new A.x(new A.b1C(this,b),s),B.bh,B.a2a,q,B.bh,B.a21,p,B.bh,B.a2B,A.aGR(o==null?"":o,s,s,s)],n),s,B.Y,s,B.z,!1),1)],n),B.i,B.d,B.e)}}
+return A.H(A.a([r,B.aH,A.W(A.cq(A.a([new A.x(new A.b1C(this,b),s),B.bh,B.a2a,q,B.bh,B.a21,p,B.bh,B.a2A,A.aGR(o==null?"":o,s,s,s)],n),s,B.Y,s,B.z,!1),1)],n),B.i,B.d,B.e)}}
 A.b1x.prototype={
 $1(a){return a.a==this.a.w.gh(0).a},
 $S:407}
@@ -73515,26 +73515,28 @@ s=s==null?null:s.CW
 A.bf7(s==null?"":s)},
 $S:0}
 A.aze.prototype={
-$0(){var s,r=this
-switch(r.b){case 0:return A.bos(r.c+1)
-case 1:return r.d.e==="open"?"Active":"InActive"
-case 2:s=r.d.ch
+$0(){var s,r,q=this
+switch(q.b){case 0:return A.bos(q.c+1)
+case 1:return q.d.e==="open"?"Active":"InActive"
+case 2:s=q.d.ch
 return s==null?"":s
-case 3:s=r.d.c
+case 3:s=q.d.c
 return s==null?"":s
-case 4:return r.a.gq(0).TF(r.d.d)
-case 5:s=r.d.x
+case 4:s=q.d
+r=s.dx
+return r===!0?"Courses & Micro-credentials":q.a.gq(0).TF(s.d)
+case 5:s=q.d.x
 return s==null?"":s
-case 6:s=r.d.y
+case 6:s=q.d.y
 return s==null?"":s
-case 7:s=r.d
+case 7:s=q.d
 return A.iG(s.z,s.Q,s.as,s.ax,s.at,!0)
-case 8:s=r.d.dx
+case 8:s=q.d.dx
 return s===!0?"YES":"NO"
-case 9:s=r.a.gq(0).CJ(r.d)
+case 9:s=q.a.gq(0).CJ(q.d)
 s=s==null?null:s.CW
 return s==null?"":s
-case 10:s=r.a.gq(0).CJ(r.d)
+case 10:s=q.a.gq(0).CJ(q.d)
 s=s==null?null:s.b
 return s==null?"":s
 default:return""}},
@@ -75297,7 +75299,7 @@ r.push(A.co(s,new A.ag(B.a0,A.uT("assets/images/kibbi_web_logo.png",s,!1,s,s),s)
 r.push(A.W(A.E(s,s,B.f,s,s,s,s,s,s,s,s,s,s),1))
 return A.E(s,A.ar(A.P(r,B.i,B.d,B.e,s),50,s),B.f,B.j,s,s,s,s,s,B.Nv,s,s,s)},
 a7v(){var s=null
-return A.E(s,A.H(A.a([A.W(new A.x(new A.b33(this),s),1),A.E(B.a8,B.a2s,B.f,s,s,s,s,s,s,B.bt,s,s,s)],t.p),B.i,B.d,B.e),B.f,B.eb,s,s,s,s,s,s,s,s,s)}}
+return A.E(s,A.H(A.a([A.W(new A.x(new A.b33(this),s),1),A.E(B.a8,B.a2N,B.f,s,s,s,s,s,s,B.bt,s,s,s)],t.p),B.i,B.d,B.e),B.f,B.eb,s,s,s,s,s,s,s,s,s)}}
 A.b2P.prototype={
 $1(a){return this.a.aCw(a)},
 $S:425}
@@ -135291,8 +135293,8 @@ B.JX=new A.DY(null,null,null,null,null,null,null)
 B.O=new A.M(4286678670)
 B.a1p=new A.ak("Select a Group",null,null,null,18,B.O,null,null,null,null)
 B.JY=new A.ep(B.t,null,null,B.a1p,null)
-B.a2M=new A.ak("Select a banner",null,null,null,18,B.O,null,null,null,null)
-B.JZ=new A.ep(B.t,null,null,B.a2M,null)
+B.a2L=new A.ak("Select a banner",null,null,null,18,B.O,null,null,null,null)
+B.JZ=new A.ep(B.t,null,null,B.a2L,null)
 B.a1A=new A.ak("Select a user",null,null,null,18,B.O,null,null,null,null)
 B.K_=new A.ep(B.t,null,null,B.a1A,null)
 B.a1h=new A.ak("Select a Article",null,null,null,18,B.O,null,null,null,null)
@@ -135307,8 +135309,8 @@ B.a2m=new A.ak("No Explore Video found",null,null,B.T,18,B.cw,null,null,null,nul
 B.K4=new A.ep(B.t,null,null,B.a2m,null)
 B.a2T=new A.ak("No employer found",null,null,B.T,18,B.cw,null,null,null,null)
 B.qk=new A.ep(B.t,null,null,B.a2T,null)
-B.a2y=new A.ak("Select a Event",null,null,null,18,B.O,null,null,null,null)
-B.K5=new A.ep(B.t,null,null,B.a2y,null)
+B.a2x=new A.ak("Select a Event",null,null,null,18,B.O,null,null,null,null)
+B.K5=new A.ep(B.t,null,null,B.a2x,null)
 B.a1w=new A.ak("Select a Employer",null,null,null,18,B.O,null,null,null,null)
 B.ql=new A.ep(B.t,null,null,B.a1w,null)
 B.a1m=new A.ak("Please select a perk.",null,null,null,null,B.O,null,null,null,null)
@@ -135452,8 +135454,8 @@ B.d=new A.qZ(0,"start")
 B.fB=A.a(s([]),t.p)
 B.LU=new A.ff(B.z,B.d,B.e,B.i,null,B.b_,null,B.fB,null)
 B.o=new A.u_(0,"start")
-B.a2K=new A.ak("Created New",null,null,B.T,18,null,null,null,null,null)
-B.SM=A.a(s([B.a2K]),t.p)
+B.a2J=new A.ak("Created New",null,null,B.T,18,null,null,null,null,null)
+B.SM=A.a(s([B.a2J]),t.p)
 B.LV=new A.ff(B.z,B.d,B.e,B.o,null,B.b_,null,B.SM,null)
 B.a2l=new A.ak("Cover Photo",null,null,null,null,B.O,null,null,null,null)
 B.Rw=A.a(s([B.mQ,B.c9,B.a2l]),t.p)
@@ -135785,8 +135787,8 @@ B.rM=new A.ul(!1,!1,!1,!0)
 B.bY=new A.Ui(0,"tight")
 B.a1Z=new A.ak("Perk's Contents",null,null,B.T,20,null,null,null,null,null)
 B.Om=new A.hf(1,B.bY,B.a1Z,null)
-B.a2x=new A.ak("Languages",null,null,null,18,null,null,null,null,null)
-B.On=new A.hf(1,B.bY,B.a2x,null)
+B.a2w=new A.ak("Languages",null,null,null,18,null,null,null,null,null)
+B.On=new A.hf(1,B.bY,B.a2w,null)
 B.a1H=new A.ak("Article Detail",null,null,null,18,null,null,null,null,null)
 B.Oo=new A.hf(1,B.bY,B.a1H,null)
 B.af=new A.cX(20,null,null,null)
@@ -137938,8 +137940,8 @@ B.kz=new A.A7(0,"pop")
 B.fS=new A.A7(1,"doNotPop")
 B.E9=new A.A7(2,"bubble")
 B.iq=new A.jJ(null,null)
-B.a2v=new A.ak("Article Info",null,null,null,18,null,null,null,null,null)
-B.Or=new A.hf(1,B.bY,B.a2v,null)
+B.a2u=new A.ak("Article Info",null,null,null,18,null,null,null,null,null)
+B.Or=new A.hf(1,B.bY,B.a2u,null)
 B.SL=A.a(s([B.Or]),t.p)
 B.a06=new A.eL(B.am,B.d,B.e,B.i,null,B.b_,null,B.SL,null)
 B.a2U=new A.ak("Phone Number",null,null,B.n,null,null,null,null,null,null)
@@ -137952,8 +137954,8 @@ B.aa=new A.cX(5,null,null,null)
 B.a1S=new A.ak("Delete Perk",null,null,null,null,B.cw,null,null,null,null)
 B.SZ=A.a(s([B.PY,B.aa,B.a1S]),t.p)
 B.a09=new A.eL(B.am,B.d,B.e,B.i,null,B.b_,null,B.SZ,null)
-B.a2I=new A.ak("Kibbi Event Info",null,null,null,18,null,null,null,null,null)
-B.Ow=new A.hf(1,B.bY,B.a2I,null)
+B.a2H=new A.ak("Kibbi Event Info",null,null,null,18,null,null,null,null,null)
+B.Ow=new A.hf(1,B.bY,B.a2H,null)
 B.Re=A.a(s([B.Ow]),t.p)
 B.a0a=new A.eL(B.am,B.d,B.e,B.i,null,B.b_,null,B.Re,null)
 B.PK=new A.br(983823,!1)
@@ -138183,28 +138185,28 @@ B.a2j=new A.ak("Highlighted",null,null,null,null,null,null,null,null,null)
 B.a2n=new A.ak("Event date must be set and save correctly in order to show calendar properly. ",null,null,null,null,null,null,null,null,null)
 B.a2o=new A.ak("Recommend ratio: 16 : 9",null,null,B.n,16,null,null,null,null,null)
 B.a2q=new A.ak("Select End Time",null,null,B.T,16,null,null,null,null,null)
-B.a2s=new A.ak("v.1.0.19",null,null,null,10,B.bc,null,null,null,null)
-B.a2t=new A.ak("Add New Session",null,null,null,null,B.j,null,null,null,null)
-B.a2u=new A.ak("External Article Category Setting",null,null,null,null,null,null,null,null,null)
+B.a2s=new A.ak("Add New Session",null,null,null,null,B.j,null,null,null,null)
+B.a2t=new A.ak("External Article Category Setting",null,null,null,null,null,null,null,null,null)
 B.F3=new A.ak("Support All Demographic",null,null,null,null,null,null,null,null,null)
-B.a2w=new A.ak("Update Session",null,null,B.T,22,null,null,null,null,null)
+B.a2v=new A.ak("Update Session",null,null,B.T,22,null,null,null,null,null)
 B.F4=new A.ak("Select Date",null,null,B.T,16,null,null,null,null,null)
-B.a2z=new A.ak("Reset Media",null,null,null,null,null,null,null,null,null)
+B.a2y=new A.ak("Reset Media",null,null,null,null,null,null,null,null,null)
 B.F5=new A.ak("+1",null,null,null,null,B.O,null,null,null,null)
-B.a2A=new A.ak("Banner Partner",null,null,null,null,null,null,null,null,null)
-B.a2B=new A.ak("Problem",null,null,B.n,16,null,null,null,null,null)
-B.a2C=new A.ak("Video Destination",null,null,null,null,B.M,null,null,null,null)
-B.a2D=new A.ak("External Article",null,null,null,null,null,null,null,null,null)
-B.a2E=new A.ak("Article URL",null,null,B.T,null,null,null,null,null,null)
-B.a2F=new A.ak("Problems Reported",null,null,null,null,null,null,null,null,null)
+B.a2z=new A.ak("Banner Partner",null,null,null,null,null,null,null,null,null)
+B.a2A=new A.ak("Problem",null,null,B.n,16,null,null,null,null,null)
+B.a2B=new A.ak("Video Destination",null,null,null,null,B.M,null,null,null,null)
+B.a2C=new A.ak("External Article",null,null,null,null,null,null,null,null,null)
+B.a2D=new A.ak("Article URL",null,null,B.T,null,null,null,null,null,null)
+B.a2E=new A.ak("Problems Reported",null,null,null,null,null,null,null,null,null)
 B.or=new A.ak("Create",null,null,null,18,B.j,null,null,null,null)
-B.a2G=new A.ak("Set Default",null,null,null,null,null,null,null,null,null)
+B.a2F=new A.ak("Set Default",null,null,null,null,null,null,null,null,null)
 B.e0=new A.ak("Target Support",null,null,B.n,null,null,null,null,null,null)
-B.a2H=new A.ak("Is Multiple Sessions",null,null,B.n,null,null,null,null,null,null)
+B.a2G=new A.ak("Is Multiple Sessions",null,null,B.n,null,null,null,null,null,null)
 B.F6=new A.ak("Feature data",null,null,null,null,null,null,null,null,null)
-B.a2J=new A.ak("Ok",null,null,B.n,16,B.j,null,null,null,null)
-B.a2L=new A.ak("Video Description",null,null,null,null,B.M,null,null,null,null)
-B.a2N=new A.ak("Delete",null,null,null,16,null,null,null,null,null)
+B.a2I=new A.ak("Ok",null,null,B.n,16,B.j,null,null,null,null)
+B.a2K=new A.ak("Video Description",null,null,null,null,B.M,null,null,null,null)
+B.a2M=new A.ak("Delete",null,null,null,16,null,null,null,null,null)
+B.a2N=new A.ak("v.1.0.20",null,null,null,10,B.bc,null,null,null,null)
 B.a2O=new A.ak("Recommend ratio: Square",null,null,B.n,16,null,null,null,null,null)
 B.a2P=new A.ak("Target View",null,null,null,null,null,null,null,null,null)
 B.F7=new A.ak("Manage Translations",null,null,null,16,null,null,null,null,null)
